@@ -1,7 +1,7 @@
 {
-  "name": "learnhub",
+  "name": "rahul",
   "version": "1.0.0",
-  "description": "learnhub Educaiton Website",
+  "description": "Rahul Education Website",
   "main": "vite.config.js",
   "scripts": {
     "dev": "vite",

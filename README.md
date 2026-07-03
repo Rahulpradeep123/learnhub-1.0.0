@@ -1,4 +1,4 @@
-# LearnHub- Free eLearning Bootstrap Educational Website Template
+# Rahul - Free eLearning Bootstrap Educational Website Template
 
 #### Preview
 
